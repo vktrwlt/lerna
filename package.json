@@ -35,9 +35,7 @@
     "bootstrap": "lerna bootstrap --use-workspaces",
     "dev": "start-storybook -p 3000",
     "version": "changeset version",
-    "release": "changeset publish",
-    "version:dev": "changeset version --snapshot dev",
-    "release:dev": "changeset publish --tag dev"
+    "release": "changeset publish"
   },
   "command": {
     "publish": {

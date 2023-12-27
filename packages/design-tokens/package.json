@@ -6,10 +6,5 @@
   "module": "src/index.js",
   "publishConfig": {
     "access": "public"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vktrwlt/lerna-ui.git",
-    "directory": "packages/design-tokens"
   }
 }
