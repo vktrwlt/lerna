@@ -1,0 +1,7 @@
+{
+  "name": "@lerna-ds/design-tokens",
+  "version": "1.0.0",
+  "description": "Variables and constants",
+  "main": "lib/design-tokens.js",
+  "module": "src/index.js"
+}
