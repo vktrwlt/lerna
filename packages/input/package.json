@@ -10,5 +10,13 @@
   "peerDependencies": {
     "react": ">=17",
     "react-dom": ">=17"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vktrwlt/lerna-ui.git",
+    "directory": "packages/input"
   }
 }

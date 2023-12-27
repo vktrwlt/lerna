@@ -3,5 +3,13 @@
   "version": "1.0.0",
   "description": "Variables and constants",
   "main": "lib/design-tokens.js",
-  "module": "src/index.js"
+  "module": "src/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vktrwlt/lerna-ui.git",
+    "directory": "packages/design-tokens"
+  }
 }
