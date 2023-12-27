@@ -1,10 +1,10 @@
 {
   "name": "@vktrwlt/button",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "main": "lib/Button.js",
   "module": "src/Button.js",
   "dependencies": {
-    "@vktrwlt/design-tokens": "^1.0.0",
+    "@vktrwlt/design-tokens": "*",
     "styled-components": "^5.1.0"
   },
   "devDependencies": {},
