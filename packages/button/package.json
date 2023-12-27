@@ -1,10 +1,10 @@
 {
-  "name": "@lerna-ds/button",
+  "name": "@vktrwlt/button",
   "version": "1.0.0",
   "main": "lib/Button.js",
   "module": "src/Button.js",
   "dependencies": {
-    "@lerna-ds/design-tokens": "^1.0.0",
+    "@vktrwlt/design-tokens": "^1.0.0",
     "styled-components": "^5.1.0"
   },
   "devDependencies": {},

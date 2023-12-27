@@ -1,5 +1,5 @@
 {
-  "name": "@lerna-ds/input",
+  "name": "@vktrwlt/input",
   "version": "1.0.0",
   "main": "lib/Input.js",
   "module": "src/Input.js",

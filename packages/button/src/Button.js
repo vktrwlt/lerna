@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { colors } from "@lerna-ds/design-tokens";
+import { colors } from "@vktrwlt/design-tokens";
 
 export const Button = styled.button`
   background-color: ${colors.green};

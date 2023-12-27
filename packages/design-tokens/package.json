@@ -1,5 +1,5 @@
 {
-  "name": "@lerna-ds/design-tokens",
+  "name": "@vktrwlt/design-tokens",
   "version": "1.0.0",
   "description": "Variables and constants",
   "main": "lib/design-tokens.js",
