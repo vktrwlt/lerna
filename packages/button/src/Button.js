@@ -3,7 +3,7 @@ import { colors } from "@vktrwlt/design-tokens";
 
 export const Button = styled.button`
   background-color: ${colors.green};
-  color: #000;
+  color: #001;
 
   border: none;
   border-radius: 8px;
