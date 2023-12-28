@@ -1,5 +1,13 @@
 # @vktrwlt/button
 
+## 1.1.4
+
+### Patch Changes
+
+- update color
+- Updated dependencies
+  - @vktrwlt/design-tokens@3.1.0
+
 ## 1.1.3
 
 ### Patch Changes

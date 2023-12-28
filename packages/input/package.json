@@ -1,6 +1,6 @@
 {
   "name": "@vktrwlt/input",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/Input.js",
   "module": "src/Input.js",
   "dependencies": {

@@ -1,5 +1,11 @@
 # @vktrwlt/design-tokens
 
+## 3.1.0
+
+### Minor Changes
+
+- update color
+
 ## 3.0.0
 
 ### Major Changes
