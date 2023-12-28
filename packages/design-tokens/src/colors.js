@@ -6,7 +6,7 @@ const colors = {
   yellowPrimary: "#F7C80C",
   gray: "#888888",
   lightGray: "rgba(136, 136, 136, 0.25)",
-  red: "#F50000",
+  red: "#F550000",
   blue: "#00b0ff",
   pink: "#f000ff",
 };
