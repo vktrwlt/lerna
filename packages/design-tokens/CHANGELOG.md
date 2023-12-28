@@ -1,5 +1,11 @@
 # @vktrwlt/design-tokens
 
+## 3.2.0
+
+### Minor Changes
+
+- fix color token
+
 ## 3.1.0
 
 ### Minor Changes
