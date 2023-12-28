@@ -1,1 +1,1 @@
-declare module 'danielg.favero-design-tokens'
+declare module "@vktrwlt/design-tokens";
