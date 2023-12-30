@@ -58,5 +58,8 @@
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "0.0.0"
 }
