@@ -32,7 +32,7 @@
     "prepare": "husky install",
     "build": "lerna exec --parallel -- babel --root-mode upward src -d lib --ignore **/*.stories.js,**/*.spec.js",
     "dev": "start-storybook -p 3000",
-    "package:draft": "changeset",
+    "changeset": "changeset",
     "package:version": "yarn changeset version && yarn install --mode=update-lockfile",
     "package:release": "yarn changeset publish",
     "monorepo:fix": "manypkg fix",
