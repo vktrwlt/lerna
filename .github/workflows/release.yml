@@ -23,11 +23,14 @@ jobs:
         run: yarn install
       - name: Build
         run: yarn build
-      - name: Publish to npm
-        id: changesets
+      - name: "Create Pull Request or Publish to npm"
         uses: changesets/action@v1
         with:
+          version: yarn package:version
           publish: yarn package:release
+          commit: "chore(release): version packages"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          # due to this bug in yarn https://github.com/yarnpkg/berry/issues/3606 we need to manually turn off immutable installs to update the lockfile
+          YARN_ENABLE_IMMUTABLE_INSTALLS: false
