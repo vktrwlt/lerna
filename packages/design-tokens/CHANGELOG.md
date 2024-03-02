@@ -1,5 +1,11 @@
 # @vktrwlt/design-tokens
 
+## 3.5.0
+
+### Minor Changes
+
+- [#5](https://github.com/vktrwlt/lerna-ui/pull/5) [`bca0ca7`](https://github.com/vktrwlt/lerna-ui/commit/bca0ca761c42c0ba2c26e7f22dca4d01c062b9b6) Thanks [@vktrwlt](https://github.com/vktrwlt)! - update token
+
 ## 3.4.0
 
 ### Minor Changes
